@@ -1,0 +1,33 @@
+
+R
+java:S3740â"/Provide the parametrized type for this generic.(¹óê´ÿÿÿÿÿ8ßÙİæÆ1
+T
+java:S1135""2Complete the task associated to this TODO comment.(éê”šøÿÿÿÿ8ÊÚİæÆ1
+v
+java:S6201f"TReplace this instanceof check and cast with 'instanceof ZonedDateTime zoneddatetime'(ó£İ¯øÿÿÿÿ8İÚİæÆ1
+i
+java:S6201h"LReplace this instanceof check and cast with 'instanceof LocalDate localdate'(­ÄËˆ8ßÚİæÆ1
+i
+java:S6201k"LReplace this instanceof check and cast with 'instanceof LocalDate localdate'(­ÄËˆ8áÚİæÆ1
+v
+java:S6201t"TReplace this instanceof check and cast with 'instanceof ZonedDateTime zoneddatetime'(ó£İ¯øÿÿÿÿ8äÚİæÆ1
+i
+java:S6201v"LReplace this instanceof check and cast with 'instanceof LocalDate localdate'(­ÄËˆ8åÚİæÆ1
+v
+java:S6201"TReplace this instanceof check and cast with 'instanceof ZonedDateTime zoneddatetime'(ó£İ¯øÿÿÿÿ8èÚİæÆ1
+j
+java:S6201"LReplace this instanceof check and cast with 'instanceof LocalDate localdate'(­ÄËˆ8éÚİæÆ1
+w
+java:S6201‰"TReplace this instanceof check and cast with 'instanceof ZonedDateTime zoneddatetime'(ó£İ¯øÿÿÿÿ8ìÚİæÆ1
+j
+java:S6201‹"LReplace this instanceof check and cast with 'instanceof LocalDate localdate'(­ÄËˆ8íÚİæÆ1
+j
+java:S6201–"LReplace this instanceof check and cast with 'instanceof LocalDate localdate'(­ÄËˆ8ñÚİæÆ1
+J
+java:S1905—",Remove this unnecessary cast to "LocalDate".(’§—8òÚİæÆ1
+j
+java:S6201­"LReplace this instanceof check and cast with 'instanceof LocalDate localdate'(­ÄËˆ8úÚİæÆ1
+O
+java:S1905®",Remove this unnecessary cast to "LocalDate".( ÿ‚ıÿÿÿÿ8ûÚİæÆ1
+O
+java:S1172Î"1Remove this unused method parameter "resultType".(ßî”ñ8‡ÛİæÆ1
